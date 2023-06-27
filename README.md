@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **moskau@rakumail.jp**
 
-- I live in somewhere in Japan
+- 📝 I live in somewhere in Japan
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
