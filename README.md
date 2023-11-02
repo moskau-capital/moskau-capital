@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://zenn.dev/umipro_web](https://zenn.dev/umipro_web)
 
-- 📫 How to reach me **moskau@rakumail.jp**
+- 📫 How to reach me **umishunta@gmail.com**
 
 - 📝 I live in somewhere in Japan
 
