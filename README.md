@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm umipro-web-dev</h1>
 <h3 align="center">I am a Japanese student who mainly writes web-based code.</h3>
-<div align="center">
-  <div align="left">
+<div class="list">
+  <div>
 ・ 🌱 I’m currently learning Nuxt3, c++
 
 ・ 📫 How to reach me umishunta@gmail.com
@@ -18,5 +18,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umipro-web-dev&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
   
-
+<style>
+  div.list {
+    margin: 0 auto;
+  }
+  
+</style>
 
