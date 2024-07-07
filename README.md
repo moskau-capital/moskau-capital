@@ -12,5 +12,6 @@
   I usually use typescript, vue, nuxt3, and python!
 </p>
 
+[![umipro-web-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=umipro-web-dev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
