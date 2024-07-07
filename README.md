@@ -13,12 +13,9 @@
 </p>
 
 <div id="cards">
-  <div>
     [![umipro-web-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=umipro-web-dev&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-  <div>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umipro-web-dev)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+  
 </div>
 
 <style>
