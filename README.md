@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm umipro-web-dev</h1>
 <h3 align="center">I am a Japanese student who mainly writes web-based code.</h3>
 <div align="center">
-  <div>
+  <div align="left">
 ・ 🌱 I’m currently learning **Nuxt3, c++**
 
 ・ 📫 How to reach me **umishunta@gmail.com**
